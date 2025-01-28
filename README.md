@@ -1,0 +1,1 @@
+Using data from seat geek I developed a ticket allocation model for the LA Dodgers, LA Philharmonic, and the Oklahoma City Comets \(Dodgers feeder team\). All the code is in a notebook file with a good amount of data analysis and visualization. The model uses LightGBM for forecasting.
